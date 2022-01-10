@@ -18,6 +18,7 @@ namespace ListChallenge
             {
                 Console.WriteLine(names[n] + " = " + score[n]);
             }
+             // finished all tasks
         }
     }
 }
