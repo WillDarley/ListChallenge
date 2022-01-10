@@ -10,8 +10,9 @@ namespace ListChallenge
     {
         static void Main(string[] args)
         {
-            List<string> names = new List<string> { "Will 1", "Will 2", "Ethan"};
-            names.Add("Tom");
+            List<string> names = new List<string> { "Will 1", "Will 2", "Ethan" , "Ashton", "Ben", "Thomas", "Henry", "Cormac", "Adam"};
+
+            List<string> score = new List<string> { };
 
             Console.WriteLine(names[3]);
         }
